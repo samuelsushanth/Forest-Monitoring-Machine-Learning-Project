@@ -1,4 +1,4 @@
-# Forest-Monitoring-Machine-Learning-Project
+"# Forest-Monitoring-Machine-Learning-Project---Assignment" 
 
 In this report, we analyze the forest cover in the Niokolokoba region. Through various geospatial data techniques, we're able to predict forest cover, calculate carbon emissions from deforestation, and estimate the carbon stock in the region. We use machine learning models and satellite imagery to make our predictions.
 
@@ -145,4 +145,4 @@ For each predicted year, we visualize:
 
 We use a pre-trained model to predict forest cover from satellite images. Predictions are based on color bands from satellite imagery as well as other relevant features. The model generates a binary map where regions predicted to be forest are marked white, while other regions are black.
 
-Once these predictions are generated, we combine them with NDVI data and other metrics to get a complete picture of forest health and cover.
+Once these predictions are generated, we combine them with NDVI data and other metrics to get a complete picture of forest health and cover."# Forest-Monitoring-Machine-Learning-Project---Assignment" 
